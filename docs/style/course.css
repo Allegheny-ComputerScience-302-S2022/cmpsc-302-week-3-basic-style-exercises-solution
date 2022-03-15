@@ -48,6 +48,43 @@ footer {
   text-transform: lowercase;
 }
 
+#index {
+  height: 100vh;
+}
+
+
+#title-screen {
+  display: grid;
+  grid-template-columns: 1fr 60%;
+  color: #FFF;
+  text-transform: lowercase;
+  margin: 0 auto;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  width 60%;
+}
+
+#title-screen h1 {
+  grid-column 1 / 2;
+  top: 50%;
+  margin: auto;
+}
+
+#title-screen ul {
+  list-style: none;
+  grid-column: 2 / 2;
+}
+
+#title-screen a, #title-screen a:visited {
+  text-decoration: none;
+  color: #FFF;
+}
+
+#title-screen a:hover {
+  border-bottom: 1px dashed #FFF;
+}
+
 /* CLASSES */
 
 .sandtrap {
