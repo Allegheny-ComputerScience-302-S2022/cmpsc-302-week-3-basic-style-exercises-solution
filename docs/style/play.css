@@ -9,8 +9,8 @@
 }
 
 #hole-3 #ball {
-  left: 12%;
-  top: 73.75%;
+  left: calc(10% + 2vw);
+  top: calc(70% + 2vw);
 }
 
 #hole-4 #ball {
