@@ -17,6 +17,12 @@ make columns from text and `div`s.
 
 Overall, an action packed week that has us doing something like..._fore_ (4) things.
 
+### Your task
+
+Your task is simple: get the `#ball` to be consistently concentric to (i.e. contained _completely_ within) the `#target` div.
+This will require styling the position of the `#ball`, `#target`, or _both_! There are `8` holes to traverse; you're responsible
+for building the 9th.
+
 ## Making a GitHub Pages page
 
 This assignment also requires you to make your work available via GitHub Pages. For a primer on where to find it
