@@ -23,6 +23,17 @@ Your task is simple: get the `#ball` to be consistently concentric to (i.e. cont
 This will require styling the position of the `#ball`, `#target`, or _both_! There are `8` holes to traverse; you're responsible
 for building the 9th.
 
+#### How to play
+
+* "Play" each hole by moving the `#ball` in [docs/style/play.css](docs/style/play.css)
+  * The selectors are already populated
+
+#### How to design the 9th hole
+
+* Design the 9th hole by filling in selectors in [docs/style/course.css](docs/style/course.css)
+
+Don't forget to play and solve it!
+
 ## Making a GitHub Pages page
 
 This assignment also requires you to make your work available via GitHub Pages. For a primer on where to find it
