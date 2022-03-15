@@ -55,7 +55,7 @@ footer {
 
 #title-screen {
   display: grid;
-  grid-template-columns: 1fr 60%;
+  grid-template-columns: 50% 50%;
   color: #FFF;
   text-transform: lowercase;
   margin: 0 auto;
@@ -83,6 +83,23 @@ footer {
 
 #title-screen a:hover {
   border-bottom: 1px dashed #FFF;
+}
+
+#index .sandtrap {
+  position: absolute;
+  width: 20vw;
+  height: 20vw;
+  border-radius: 45% 49% 62% 14% / 10% 5% 40% 40%;
+  top: 0;
+  transform: rotate(10deg);
+}
+
+#index .water {
+  position: absolute;
+  right: 0;
+  width: 30vw;
+  height: 15vw;
+  border-radius: 80% 15% 63% 40% / 34% 32% 73% 12%;
 }
 
 /* CLASSES */
